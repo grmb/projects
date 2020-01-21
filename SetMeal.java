@@ -205,4 +205,4 @@ System.out.println("The total cost is $" +fmt.format(total)+".");
 
 }//end of totalCost()
 
-}//end totalCost()
+}//end class
